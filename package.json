@@ -1,5 +1,9 @@
 {
   "name": "indigo-script",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chrsoo/vsce-indigo-script"
+  },
   "displayName": "indigo-script",
   "description": "INDIGO bindings for JavaScript",
   "version": "0.0.1",
